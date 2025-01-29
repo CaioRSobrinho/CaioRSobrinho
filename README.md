@@ -18,4 +18,4 @@
 </div><br/>
 
 # Sobre mim
-#### Desenvolvedor Web full stack.
+#### Desenvolvedor Front-End.
